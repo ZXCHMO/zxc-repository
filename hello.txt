@@ -3,3 +3,4 @@ fygfhjhello again
 ertgergt
 qrgerfw
 >>>>>>> my_second_branch
+Hello from main repository
