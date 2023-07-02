@@ -1,2 +1,5 @@
 fygfhjhello again
+<<<<<<< HEAD
 ertgergt
+qrgerfw
+>>>>>>> my_second_branch
